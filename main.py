@@ -1,1 +1,1 @@
-for i in range(q):
+char(input)
